@@ -3,8 +3,7 @@
 namespace App\Http\Services;
 
 use App\Exceptions\AppError;
-use App\Models\Transaction;
-use App\Models\User;
+use App\Models\{Transaction, User};
 
 class TransactionService
 {
