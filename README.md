@@ -1,1 +1,1 @@
-# payments-in-lavavel
+# laravel-payments
